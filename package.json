@@ -1,0 +1,10 @@
+{
+  "name": "cypress-scaffold",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dan Bruder <danbruder@hey.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.17.4"
+  }
+}
